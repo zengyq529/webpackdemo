@@ -1,0 +1,6 @@
+{
+    //es6 es7 语法都可解析了
+    "presets": [
+        "@babel/preset-env"
+    ]
+}

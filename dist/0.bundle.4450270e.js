@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{2:function(n,o,t){"use strict";function c(){return"我是common"}t.r(o),t.d(o,"getId",(function(){return c}))}}]);
